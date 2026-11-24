@@ -1,0 +1,17 @@
+# CLion & IDE Settings
+.idea/
+.vscode/
+*.swp
+
+# CMake Build Directories & Artifacts
+cmake-build-debug/
+cmake-build-release/
+build/
+bin/
+*.o
+*.a
+*.so
+*.dylib
+
+# Compiled Binaries
+test_features
